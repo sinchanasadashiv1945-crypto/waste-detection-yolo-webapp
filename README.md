@@ -40,7 +40,7 @@ http://127.0.0.1:5000/
 
 ## 📸 Output
 Detected waste objects are shown with bounding boxes on the image.  
-(Add sample screenshots in a screenshots folder)
+(Added sample screenshots in a screenshots folder)
 
 ## 🔮 Future Improvements
 - Improve dataset with more waste categories  
