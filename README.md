@@ -56,7 +56,5 @@ Detected waste objects are shown with bounding boxes in real-time on images or w
 Sinchana S  
 BCA, JSS Science and Technology University, Mysuru  
 
-## ⭐ Note
-This project demonstrates real-time object detection using YOLOv8n and Flask for practical AI deployment in waste management systems.
-## ⭐ Note
+
 This project demonstrates real-time YOLO-based object detection with both web and webcam-based deployment using Flask and OpenCV.
